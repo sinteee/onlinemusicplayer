@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034086742231",
+    "project_id": "sintemusic-8cac2",
+    "storage_bucket": "sintemusic-8cac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034086742231:android:628225a3ef954737cd5892",
+        "android_client_info": {
+          "package_name": "com.example.myfirsteverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034086742231-i1nt14d6bsjoqidajbtl0mt1as1lc54e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirsteverapp",
+            "certificate_hash": "26348486fa369afea2fb3a1274e2b0e2834b0b34"
+          }
+        },
+        {
+          "client_id": "1034086742231-8m9k50ah8pis0eq0u8es6k5lh3gqkk5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB225cxHAbdKw8lVG_oC_QIq-yJ6qFBVp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034086742231-8m9k50ah8pis0eq0u8es6k5lh3gqkk5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
